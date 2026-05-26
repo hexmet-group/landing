@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="10 8 28 32"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="15.270833"
+     inkscape:cx="23.967258"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="941"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <defs
+     id="defs9">
+    <linearGradient
+       id="bg-grad"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#1A0A3E"
+         id="stop1" />
+      <stop
+         offset="100%"
+         stop-color="#0D0524"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="gold-grad"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#D4A843"
+         id="stop3" />
+      <stop
+         offset="100%"
+         stop-color="#F0D78C"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="gold-metallic"
+       x1="100%"
+       y1="0%"
+       x2="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#FFFFFF"
+         id="stop5" />
+      <stop
+         offset="10%"
+         stop-color="#FFF5D6"
+         id="stop6" />
+      <stop
+         offset="30%"
+         stop-color="#D4A843"
+         id="stop7" />
+      <stop
+         offset="70%"
+         stop-color="#B8922F"
+         id="stop8" />
+      <stop
+         offset="100%"
+         stop-color="#7A5E1E"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <polygon
+     points="36.1,17.0 36.1,31.0 24.0,38.0 11.9,31.0 11.9,17.0 24.0,10.0"
+     fill="none"
+     stroke="url(#gold-metallic)"
+     stroke-width="2.5"
+     id="polygon9" />
+  <polygon
+     points="33.0,24.0 28.5,31.8 19.5,31.8 15.0,24.0 19.5,16.2 28.5,16.2"
+     fill="none"
+     stroke="url(#gold-metallic)"
+     stroke-width="1.5"
+     opacity="0.4"
+     id="polygon10" />
+</svg>

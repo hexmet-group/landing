@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="800"
+   height="600"
+   viewBox="162.1800 187.2747 358.9100 236.3631"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="hexmet-icon.svg"
+   inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.11875"
+     inkscape:cx="399.55307"
+     inkscape:cy="299.88827"
+     inkscape:window-width="1920"
+     inkscape:window-height="941"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="bg-grad"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#1A0A3E"
+         id="stop1" />
+      <stop
+         offset="100%"
+         stop-color="#0D0524"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="gold-metallic"
+       x1="100%"
+       y1="0%"
+       x2="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#FFFFFF"
+         id="stop3" />
+      <stop
+         offset="10%"
+         stop-color="#FFF5D6"
+         id="stop4" />
+      <stop
+         offset="30%"
+         stop-color="#D4A843"
+         id="stop5" />
+      <stop
+         offset="70%"
+         stop-color="#B8922F"
+         id="stop6" />
+      <stop
+         offset="100%"
+         stop-color="#7A5E1E"
+         id="stop7" />
+    </linearGradient>
+  </defs>
+  <polygon
+     points="486.6,250.0 486.6,350.0 400.0,400.0 313.4,350.0 313.4,250.0 400.0,200.0"
+     fill="none"
+     stroke="url(#gold-metallic)"
+     stroke-width="7"
+     id="polygon19" />
+  <polygon
+     points="465.0,300.0 432.5,356.3 367.5,356.3 335.0,300.0 367.5,243.7 432.5,243.7"
+     fill="none"
+     stroke="url(#gold-metallic)"
+     stroke-width="2.5"
+     opacity="0.5"
+     id="polygon20" />
+</svg>

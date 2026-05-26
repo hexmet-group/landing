@@ -1,0 +1,10 @@
+# ============================================
+# Cloudflare Pages — Redirects
+# GitHub Pages ignora este archivo sin romperse
+# ============================================
+# Activar solo cuando tengas dominio propio en Cloudflare.
+# Por defecto, no hay reglas activas para evitar conflictos.
+#
+# Ejemplo cuando tengas el dominio:
+# http://hexmet.io/* https://hexmet.io/:splat 301
+# www.hexmet.io/* https://hexmet.io/:splat 301

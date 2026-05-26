@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="400"
+   viewBox="468.6822 131.1966 282.5398 134.6017"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="hexmet-horizontal.svg"
+   inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.895"
+     inkscape:cx="500.55866"
+     inkscape:cy="200.55866"
+     inkscape:window-width="1920"
+     inkscape:window-height="941"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" />
+  <defs
+     id="defs9">
+    <linearGradient
+       id="bg-grad"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#1A0A3E"
+         id="stop1" />
+      <stop
+         offset="100%"
+         stop-color="#0D0524"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="gold-metallic"
+       x1="100%"
+       y1="0%"
+       x2="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#FFFFFF"
+         id="stop3" />
+      <stop
+         offset="10%"
+         stop-color="#FFF5D6"
+         id="stop4" />
+      <stop
+         offset="30%"
+         stop-color="#D4A843"
+         id="stop5" />
+      <stop
+         offset="70%"
+         stop-color="#B8922F"
+         id="stop6" />
+      <stop
+         offset="100%"
+         stop-color="#7A5E1E"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="gold-grad"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#D4A843"
+         id="stop8" />
+      <stop
+         offset="100%"
+         stop-color="#F0D78C"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gold-metallic"
+       id="linearGradient23"
+       x1="282.76864"
+       y1="97.801608"
+       x2="147.13427"
+       y2="233.43598"
+       gradientTransform="scale(0.93044265,1.0747573)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gold-metallic"
+       id="linearGradient24"
+       x1="229.15577"
+       y1="148.23681"
+       x2="143.22138"
+       y2="234.17119"
+       gradientTransform="scale(1.0741798,0.93094287)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <polygon
+     points="260.6,213 200,248 139.4,213 139.4,143 200,108 260.6,143 "
+     fill="none"
+     stroke="url(#gold-metallic)"
+     stroke-width="5"
+     id="polygon21"
+     style="stroke:url(#linearGradient23)"
+     transform="translate(65.921788)" />
+  <polygon
+     points="222.5,217 177.5,217 155,178 177.5,139 222.5,139 245,178 "
+     fill="none"
+     stroke="url(#gold-metallic)"
+     stroke-width="2"
+     opacity="0.5"
+     id="polygon22"
+     style="stroke:url(#linearGradient24)"
+     transform="translate(65.921788)" />
+  <text
+     x="340"
+     y="210"
+     text-anchor="start"
+     font-family="Montserrat, Poppins, sans-serif"
+     font-weight="900"
+     font-size="90"
+     fill="#FFFFFF"
+     letter-spacing="4"
+     id="text22">HEX</text>
+  <text
+     x="530"
+     y="210"
+     text-anchor="start"
+     font-family="Montserrat, Poppins, sans-serif"
+     font-weight="900"
+     font-size="90"
+     fill="url(#gold-grad)"
+     letter-spacing="4"
+     id="text23">MET</text>
+</svg>

@@ -1,0 +1,40 @@
+# ============================================
+# Cloudflare Pages — Security & Cache Headers
+# GitHub Pages ignora este archivo sin romperse
+# ============================================
+
+# ─── Security Headers (todas las rutas) ───
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+# ─── Content Security Policy ───
+/*
+  Content-Security-Policy: default-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; script-src 'self'; connect-src 'self'; frame-src 'self' https://api.whatsapp.com; base-uri 'self'; form-action 'none'; upgrade-insecure-requests;
+
+# ─── Cache: HTML (no cache) ───
+/
+  Cache-Control: no-cache, must-revalidate
+
+# ─── Cache: CSS/JS (7 días) ───
+*.css
+  Cache-Control: public, immutable, max-age=604800
+*.js
+  Cache-Control: public, immutable, max-age=604800
+
+# ─── Cache: Imágenes (30 días) ───
+*.webp
+  Cache-Control: public, immutable, max-age=2592000
+*.png
+  Cache-Control: public, immutable, max-age=2592000
+*.jpeg
+  Cache-Control: public, immutable, max-age=2592000
+*.jpg
+  Cache-Control: public, immutable, max-age=2592000
+*.svg
+  Cache-Control: public, immutable, max-age=2592000
+*.ico
+  Cache-Control: public, immutable, max-age=2592000

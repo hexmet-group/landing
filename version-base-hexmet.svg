@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="600" viewBox="309.9000 105.9600 180.2000 374.0400">
+  <defs>
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4A843"/>
+      <stop offset="100%" stop-color="#F0D78C"/>
+    </linearGradient>
+  </defs>
+  <polygon points="486.6,160.0 486.6,260.0 400.0,310.0 313.4,260.0 313.4,160.0 400.0,110.0" fill="none" stroke="url(#gold-grad)" stroke-width="7"/>
+  <polygon points="465.0,210.0 432.5,266.3 367.5,266.3 335.0,210.0 367.5,153.7 432.5,153.7" fill="none" stroke="url(#gold-grad)" stroke-width="2.5" opacity="0.5"/>
+  <text x="400" y="390" text-anchor="middle" font-family="Montserrat, Poppins, sans-serif" font-weight="900" font-size="85" fill="#FFFFFF">HEX</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Montserrat, Poppins, sans-serif" font-weight="900" font-size="85" fill="url(#gold-grad)">MET</text>
+</svg>
