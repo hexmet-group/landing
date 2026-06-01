@@ -289,7 +289,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '',
         `💬 *Responder directo:* wa.me/${whatsapp.replace(/\D/g, '')}`,
         '',
-        '— Mensaje generado desde hexmet.io'
+        '— Mensaje generado desde hexmet.dev'
       ].join('\n');
 
       const url = WA_CONFIG.waUrl(cuerpo);
